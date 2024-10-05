@@ -1,0 +1,442 @@
+.content-list1-wrapper {
+  display: contents;
+}
+.content-list1-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.content-list1-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+.content-list1-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list1-ul {
+  align-items: flex-start;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment6 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text29 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment4 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text27 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment7 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text30 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment3 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text23 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment5 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text28 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment1 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text16 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment2 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text22 {
+  display: inline-block;
+}
+
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-imrt-planner {
+  width: 100%;
+  height: 713px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-header1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-navbar {
+  width: 100%;
+  height: 96px;
+  display: flex;
+  z-index: 100;
+  max-width: 1440px;
+  align-items: center;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-left {
+  gap: var(--dl-space-space-twounits);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-links {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-link1 {
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-link1:hover {
+  opacity: 0.5;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-link2 {
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-link2:hover {
+  opacity: 0.5;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-logo {
+  width: 205px;
+  height: 63px;
+  object-fit: cover;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-burger-menu {
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-icon1 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 1000;
+  position: fixed;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-container2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-image1 {
+  height: 2rem;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-menu-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-icon3 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-nav2 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text10 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text11 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text12 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text13 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-book1 {
+  text-decoration: none;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-image2 {
+  width: 18px;
+  object-fit: cover;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text14 {
+  font-family: Inter;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-main {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  max-width: 1440px;
+  align-items: stretch;
+  padding-left: var(--dl-space-space-fiveunits);
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ecffff;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-content {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-heading {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-header2 {
+  top: -181px;
+  left: -8px;
+  width: 950px;
+  position: absolute;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 65px;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-book2 {
+  text-decoration: none;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief {
+  gap: 120px;
+  width: 100%;
+  height: 840px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  align-items: center;
+  padding-top: 120px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: 120px;
+  justify-content: center;
+  background-color: rgba(6, 77, 255, 0.69);
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-image3 {
+  top: 445px;
+  left: 52px;
+  width: 330px;
+  height: 305px;
+  position: absolute;
+  object-fit: cover;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-image4 {
+  top: 443px;
+  left: 770px;
+  width: 396px;
+  height: 306px;
+  position: absolute;
+  object-fit: cover;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-image5 {
+  top: 443px;
+  left: 410px;
+  width: 331px;
+  height: 304px;
+  position: absolute;
+  object-fit: cover;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment1 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text16 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment2 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text22 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment3 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text23 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment4 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text27 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment5 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text28 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment6 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text29 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-fragment7 {
+  display: contents;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-text30 {
+  display: inline-block;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief-content {
+  top: 844px;
+  left: 56px;
+  width: 996px;
+  position: absolute;
+  font-size: 22px;
+  align-self: center;
+  line-height: 45px;
+}
+.imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief-heading {
+  top: 767px;
+  left: 58px;
+  position: absolute;
+  font-size: 40px;
+  font-style: normal;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+@media(max-width: 991px) {
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-imrt-planner {
+    flex: 1;
+    height: 0px;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-navbar {
+    z-index: 1000;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-links {
+    display: none;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-burger-menu {
+    display: flex;
+    padding: var(--dl-space-space-unit);
+    border-radius: var(--dl-radius-radius-round);
+    background-color: #2461FF;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-icon1 {
+    fill: white;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-main {
+    flex-direction: column;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-content {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-header2 {
+    max-width: 75%;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief {
+    gap: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-navbar {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+    padding-bottom: var(--dl-space-space-unit);
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-burger-menu {
+    display: flex;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-main {
+    gap: var(--dl-space-space-threeunits);
+    align-items: flex-end;
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    justify-content: center;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-header2 {
+    font-size: 32px;
+    max-width: 70%;
+    line-height: 38px;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief {
+    padding-top: var(--dl-space-space-fourunits);
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief-content {
+    font-size: 14px;
+    max-width: 80%;
+    line-height: 21px;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-brief-heading {
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
+@media(max-width: 479px) {
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-navbar {
+    padding: var(--dl-space-space-unit);
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-mobile-menu {
+    padding: 16px;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-content {
+    padding-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-header2 {
+    max-width: 80%;
+  }
+  .imrt-lung-cancer-radiotherapy-treatment-planning-and3d-dose-disribution-maps-using-ai-book2 {
+    width: 100%;
+  }
+}
